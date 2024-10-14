@@ -84,7 +84,7 @@ Provide a comprehensive, two-phase approach to validate market fit, create a tai
 
 ## Client Testimonial
 
-"Tessa's deep understanding of developer needs sets her apart. She ensures products are built in a developer-friendly way that addresses core problems. Her ability to translate this insight into detailed strategies and plans is exceptional. She rallies teams behind her vision, driving results through a perfect blend of developer empathy and strategic execution. For any dev tool founder looking to accelerate their go-to-market strategy, Tessa's expertise is invaluable." - **Alston Cheek, SnapAR, Camera Kit SDK**
+"The first thing that comes to mind about Tessa is that she deeply understands the wants and needs of the developer audience and is able to empathize with them and advocate for them with internal teams. To say another way, she's great at ensuring the teams that build products for developers do so in a way that is developer-friendly and gets at the core of the problem they’re trying to solve. As a bonus, I think she's great at putting all of this into detailed strategy, documents, and plans that are easy to follow and help rally a team behind her to solve." - **Alston Cheek, SnapAR, Camera Kit SDK**
 
 # Target Customer: SaaS Developer Tool Founders
 
